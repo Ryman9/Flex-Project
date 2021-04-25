@@ -1,0 +1,3 @@
+Double Hit: Allows the user to attack twice in one turn
+Knife Stab: 100% hit rate for 5 damage.
+Turn Skip: Skips the enemies attack for one turn.
